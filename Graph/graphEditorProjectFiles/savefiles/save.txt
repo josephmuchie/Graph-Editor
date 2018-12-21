@@ -1,0 +1,6 @@
+2 2
+0 0 20 20 New Default Vertex
+0 0 20 20 New Default Vertex
+0 1
+1 0
+
